@@ -1,2 +1,2 @@
-# goServer
-A HTTP Server implemented in Golang
+# rust-server
+A HTTP Server implemented in Rust
