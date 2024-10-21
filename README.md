@@ -1,2 +1,2 @@
-# rust-server
-A HTTP Server implemented in Rust
+# rust-CeWL
+A random word generator like CeWL in Kali Linux.
